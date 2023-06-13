@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpotifyTestSite/static/css/main.073c9b0a.css",
+    "main.js": "/SpotifyTestSite/static/js/main.9425421f.js",
+    "static/js/787.7ec122fa.chunk.js": "/SpotifyTestSite/static/js/787.7ec122fa.chunk.js",
+    "static/media/logo.svg": "/SpotifyTestSite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SpotifyTestSite/index.html",
+    "main.073c9b0a.css.map": "/SpotifyTestSite/static/css/main.073c9b0a.css.map",
+    "main.9425421f.js.map": "/SpotifyTestSite/static/js/main.9425421f.js.map",
+    "787.7ec122fa.chunk.js.map": "/SpotifyTestSite/static/js/787.7ec122fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9425421f.js"
+  ]
+}
